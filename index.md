@@ -34,8 +34,4 @@ See the charts and analysis in my project repository.
 
 **Project Repository:** [View Project on GitHub](https://github.com/luyinhai616/data-science-project)
 
-**Project Status:** Ongoing
-
-## Future Improvements
-
-I plan to improve my statistical analysis, explore additional factors affecting consumer prices, and add more data science projects to my portfolio.
+**Project Status:** Completed
