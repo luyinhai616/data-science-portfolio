@@ -30,6 +30,7 @@ Visitor arrivals dropped sharply during the COVID-19 period, while the Composite
 
 See the charts and analysis in my project repository.
 ![Visitor Arrivals and CPI Trends](https://raw.githubusercontent.com/luyinhai616/data-science-project/main/fig1_trend.png)
+![Visitor Arrivals and CPI Trends](https://raw.githubusercontent.com/luyinhai616/data-science-project/main/fig2_scatter.png)
 
 **Project Repository:** [View Project on GitHub](https://github.com/luyinhai616/data-science-project)
 
