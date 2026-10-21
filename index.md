@@ -26,6 +26,10 @@ This project explores monthly visitor arrivals and consumer prices in Macao. It 
 
 Visitor arrivals dropped sharply during the COVID-19 period, while the Composite CPI remained relatively stable. The overall correlation between visitor arrivals and CPI was weak, suggesting that tourism alone cannot explain changes in consumer prices.
 
+**Project Limitations:**
+
+This analysis shows correlations rather than causal relationships. Other factors, such as wages, rents, and global inflation, may also affect consumer prices in Macao.
+
 **Visualization:**
 
 See the charts and analysis in my project repository.
